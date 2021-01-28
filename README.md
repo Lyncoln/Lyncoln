@@ -9,7 +9,7 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 ---
 
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyncoln&count_private=true)
+  <img> scr = "https://github-readme-stats.vercel.app/api?username=Lyncoln&count_private=true&layout=compact&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyncoln&theme=light&layout=compact&hide=html,js,jupyter%20notebook,css,TeX" />
 </div>
 
