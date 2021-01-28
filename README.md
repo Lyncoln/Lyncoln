@@ -7,6 +7,7 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 <a href="http://lattes.cnpq.br/5072580102873532"><i class="fas fa-book"></i></a>
 
 
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lyncoln.ApurvShah007)
 <!--
 **Lyncoln/Lyncoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
