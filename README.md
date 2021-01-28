@@ -15,7 +15,7 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 </details>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lyncoln-sousa-766b1314a/)](https://www.linkedin.com/in/luizfcp/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lyncoln-sousa-766b1314a/)](https://www.linkedin.com/in/lyncoln-sousa-766b1314a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyncolnsousa@id.uff.br)](mailto:lyncolnsousa@id.uff.br)
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lyncoln.ApurvShah007)
 <!--
