@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+### - Languages and Tools...
+<details>
+<p align="center">
+<i class="fab fa-r-project"></i>
+</p>
+
+</details>
+<br />
+
+[linkedin]: https://linkedin.com/in/shettykaran21
+[twitter]: https://twitter.com/shettykaran21
 <!--
 **Lyncoln/Lyncoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
