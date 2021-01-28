@@ -1,8 +1,12 @@
 ### Olá 👋
-Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de estatística na Universidade Federal Fluminense (UFF).
+Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística na Universidade Federal Fluminense (UFF).
 
+### Languages and Tools
 
+<details>
+<code><img height="20" src="https://icons8.com.br/icons/set/language-python"></code>  
 
+</details>
 
 <a href="https://github.com/lyncoln"><i class="fab fa-github"></i></a>
 <a href="https://www.linkedin.com/in/lyncoln-sousa-766b1314a/"><i class="fab fa-linkedin"></i></a>
