@@ -2,11 +2,6 @@
 Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de estatística na Universidade Federal Fluminense (UFF).
 
 
-### - Linguagens e ferramentas que domino
-<details>
-</details>
-<br />
-
 
 
 <a href="https://github.com/lyncoln"><i class="fab fa-github"></i></a>
