@@ -8,7 +8,6 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 
 ---
 <details 
-<summary>Informações</summary>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Lyncoln&count_private=true&include_all_commits=true&show_icons=true&theme=light&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyncoln&theme=light&layout=compact&hide=html,javascript,jupyter%20notebook,css,TeX" />
