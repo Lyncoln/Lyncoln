@@ -4,7 +4,7 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 ### Languages and Tools
 
 <details>
-<code><img height="20" src="https://icons8.com.br/icons/set/language-python"></code>  
+<img height="20" src="https://icons8.com.br/icons/set/language-python">  
 
 </details>
 
