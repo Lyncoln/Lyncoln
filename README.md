@@ -1,17 +1,19 @@
-### Hi there 👋
+### Olá 👋
+Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de estatística na Universidade Federal Fluminense (UFF).
 
 
-### - Languages and Tools...
+### - Linguagens e ferramentas que domino
 <details>
-<p align="center">
-R<i class="fab fa-github">
-</p>
-
 </details>
 <br />
 
-[linkedin]: https://linkedin.com/in/shettykaran21
-[twitter]: https://twitter.com/shettykaran21
+
+
+<a href="https://github.com/lyncoln"><i class="fab fa-github"></i></a>
+<a href="https://www.linkedin.com/in/lyncoln-sousa-766b1314a/"><i class="fab fa-linkedin"></i></a>
+<a href="http://lattes.cnpq.br/5072580102873532"><i class="fas fa-book"></i></a>
+
+
 <!--
 **Lyncoln/Lyncoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
