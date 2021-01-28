@@ -4,7 +4,7 @@
 ### - Languages and Tools...
 <details>
 <p align="center">
-<i class="fab fa-r-project"></i>
+R<i class="fab fa-github">
 </p>
 
 </details>
