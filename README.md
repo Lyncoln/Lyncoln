@@ -6,6 +6,12 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 <a href="https://www.linkedin.com/in/lyncoln-sousa-766b1314a/"><i class="fab fa-linkedin"></i></a>
 <a href="http://lattes.cnpq.br/5072580102873532"><i class="fas fa-book"></i></a>
 
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Lyncoln&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyncoln&theme=dark&layout=compact&hide=html,jupyter%20notebook,css,TeX" />
+</div>
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lyncoln.ApurvShah007)
 <!--
