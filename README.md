@@ -17,7 +17,7 @@ Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lyncoln-sousa-766b1314a/)](https://www.linkedin.com/in/lyncoln-sousa-766b1314a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyncolnsousa@id.uff.br)](mailto:lyncolnsousa@id.uff.br)
-[![WebSite](https://img.shields.io/website/http/lyncoln.github.io/path/to/page.html.svg)](lyncoln.github.io)
+![Website](https://img.shields.io/website?url=http://lyncoln.github.io)
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Lyncoln.ApurvShah007)
 <!--
 **Lyncoln/Lyncoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
