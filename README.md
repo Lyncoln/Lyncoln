@@ -1,5 +1,5 @@
 ### Olá 👋
-Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística na Universidade Federal Fluminense (<img src="https://logodownload.org/wp-content/uploads/2015/03/uff-logo-2.png"  width="35" height="10"/>).
+Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística na Universidade Federal Fluminense (<a href = "http://estatistica.uff.br"><img src="https://logodownload.org/wp-content/uploads/2015/03/uff-logo-2.png"  width="35" height="10"/></a>).
 
 <a href="https://github.com/lyncoln"><i class="fab fa-github"></i></a>
 <a href="https://www.linkedin.com/in/lyncoln-sousa-766b1314a/"><i class="fab fa-linkedin"></i></a>
