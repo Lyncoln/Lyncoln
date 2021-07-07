@@ -1,5 +1,7 @@
 ### Olá 👋
-Me chamo Lyncoln Sousa de Oliveira, sou aluno do oitavo período de Estatística na Universidade Federal Fluminense (<a href = "http://estatistica.uff.br" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2015/03/uff-logo-2.png"  width="35" height="10"/></a>).
+Me chamo Lyncoln Sousa de Oliveira, sou Bacharel em Estatística pela Universidade Federal Fluminense. <a href = "http://estatistica.uff.br" target="_blank"><img src="http://www.uff.br/sites/default/files/sites/default/files/imagens-das-noticias/uff_brasao.png"  width="40" height="50"/></a>
+<br>
+Atualmente sou mestrando no Programa de Engenharia de Sistemas e Computação pela COPPE/UFRJ. <a href = "https://www.cos.ufrj.br/index.php/pt-BR/" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2015/02/ufrj-logo-5-minerva.png"  width="40" height="50"/></a>
 
 <a href="https://github.com/lyncoln"><i class="fab fa-github"></i></a>
 <a href="https://www.linkedin.com/in/lyncoln-sousa-766b1314a/"><i class="fab fa-linkedin"></i></a>
